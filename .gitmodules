@@ -8,3 +8,6 @@
 [submodule "Hassani.Silva"]
 	path = Hassani.Silva
 	url = https://github.com/cran/Hassani.Silva
+[submodule "PreProcessRecordLinkage"]
+	path = PreProcessRecordLinkage
+	url = https://github.com/cran/PreProcessRecordLinkage

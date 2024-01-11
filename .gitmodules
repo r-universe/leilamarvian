@@ -5,6 +5,9 @@
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
+[submodule "GISINTEGRATION"]
+	path = GISINTEGRATION
+	url = https://github.com/cran/GISINTEGRATION
 [submodule "Hassani.SACF"]
 	path = Hassani.SACF
 	url = https://github.com/cran/Hassani.SACF

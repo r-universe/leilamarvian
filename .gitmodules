@@ -17,3 +17,6 @@
 [submodule "PreProcessRecordLinkage"]
 	path = PreProcessRecordLinkage
 	url = https://github.com/cran/PreProcessRecordLinkage
+[submodule "TimeVizPro"]
+	path = TimeVizPro
+	url = https://github.com/cran/TimeVizPro

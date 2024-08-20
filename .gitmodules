@@ -20,3 +20,6 @@
 [submodule "TimeVizPro"]
 	path = TimeVizPro
 	url = https://github.com/cran/TimeVizPro
+[submodule "WeatherSentiment"]
+	path = WeatherSentiment
+	url = https://github.com/cran/WeatherSentiment

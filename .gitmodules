@@ -5,6 +5,9 @@
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
+[submodule "DisasterAlert"]
+	path = DisasterAlert
+	url = https://github.com/cran/DisasterAlert
 [submodule "GISINTEGRATION"]
 	path = GISINTEGRATION
 	url = https://github.com/cran/GISINTEGRATION

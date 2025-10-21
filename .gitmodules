@@ -26,3 +26,6 @@
 [submodule "WeatherSentiment"]
 	path = WeatherSentiment
 	url = https://github.com/cran/WeatherSentiment
+[submodule "compIndexBuilder"]
+	path = compIndexBuilder
+	url = https://github.com/cran/compIndexBuilder

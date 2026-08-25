@@ -29,6 +29,9 @@
 [submodule "compIndexBuilder"]
 	path = compIndexBuilder
 	url = https://github.com/cran/compIndexBuilder
+[submodule "interSAE"]
+	path = interSAE
+	url = https://github.com/cran/interSAE
 [submodule "qtsa"]
 	path = qtsa
 	url = https://github.com/cran/qtsa

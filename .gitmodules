@@ -35,3 +35,6 @@
 [submodule "qtsa"]
 	path = qtsa
 	url = https://github.com/cran/qtsa
+[submodule "statfidelity"]
+	path = statfidelity
+	url = https://github.com/cran/statfidelity

@@ -5,6 +5,9 @@
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
+[submodule "AutoGenAI"]
+	path = AutoGenAI
+	url = https://github.com/cran/AutoGenAI
 [submodule "DisasterAlert"]
 	path = DisasterAlert
 	url = https://github.com/cran/DisasterAlert
